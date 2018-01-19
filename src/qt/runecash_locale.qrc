@@ -1,0 +1,28 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/runecash_bg.qm</file>
+        <file alias="ca">locale/runecash_ca.qm</file>
+        <file alias="cs">locale/runecash_cs.qm</file>
+        <file alias="da">locale/runecash_da.qm</file>
+        <file alias="de">locale/runecash_de.qm</file>
+        <file alias="en">locale/runecash_en.qm</file>
+        <file alias="en_US">locale/runecash_en_US.qm</file>
+        <file alias="es">locale/runecash_es.qm</file>
+        <file alias="fi">locale/runecash_fi.qm</file>
+        <file alias="fr_FR">locale/runecash_fr_FR.qm</file>
+        <file alias="it">locale/runecash_it.qm</file>
+        <file alias="ja">locale/runecash_ja.qm</file>
+        <file alias="ko_KR">locale/runecash_ko_KR.qm</file>
+        <file alias="nl">locale/runecash_nl.qm</file>
+        <file alias="pl">locale/runecash_pl.qm</file>
+        <file alias="pt">locale/runecash_pt.qm</file>
+        <file alias="pt_BR">locale/runecash_pt_BR.qm</file>
+        <file alias="ro_RO">locale/runecash_ro_RO.qm</file>
+        <file alias="ru">locale/runecash_ru.qm</file>
+        <file alias="sk">locale/runecash_sk.qm</file>
+        <file alias="sv">locale/runecash_sv.qm</file>
+        <file alias="uk">locale/runecash_uk.qm</file>
+        <file alias="zh_CN">locale/runecash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/runecash_zh_TW.qm</file>
+    </qresource>
+</RCC>
