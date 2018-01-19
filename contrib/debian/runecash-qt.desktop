@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Runecash
+Comment=Runecash P2P Cryptocurrency
+Comment[fr]=Runecash, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Runecash, eşten eşe kriptografik sanal para birimi
+Exec=runecash-qt %u
+Terminal=false
+Type=Application
+Icon=runecash128
+MimeType=x-scheme-handler/runecash;
+Categories=Office;Finance;

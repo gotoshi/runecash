@@ -1,1 +1,1 @@
-# runecash
+Runecash Cryptocurrency
